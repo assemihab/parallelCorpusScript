@@ -1,5 +1,5 @@
 # parallelCorpusScript
-I created this script so that it can help me scrape data in the future for projects that need parallel corpuses, like Translation.
+I created this script so that it can help me scrape data in the future for projects that need parallel corpus, like Translation.
 <h1> Dataused </h1>
 I used Hunter x Hunter English and Arabic subtitles downloaded from Subscene. 
 <h1> Is this data ready to be used? </h1>
